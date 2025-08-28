@@ -48,8 +48,8 @@ During Google Summer of Code 2025, I focused on advancing the Open Food Facts Ex
 During Pre-GSoC period, I developed web components for the Mobile Badges and Donation Banner. During the GSoC coding phase, I enhanced these components with dark mode support and implemented various refinements. I have also integrated these components into the Explorer project.
 
 <p align="center">
-  <img src="./assets/mobile-badges.png" alt="Mobile Badges Demo" height="100" />
-  <img src="./assets/donnation-banner.png" alt="Donation Banner Demo" height="200"/>
+  <img src="./assets/mobile-badges.png" alt="Mobile Badges Demo" width="650" />
+  <img src="./assets/donnation-banner.png" alt="Donation Banner Demo" width="850"/>
 </p>
 
 <b>Relevant PRs:</b>
@@ -65,8 +65,8 @@ During Pre-GSoC period, I developed web components for the Mobile Badges and Don
 I integrated the static pages into the Explorer by embedding their public URLs within iframes. In this work, I utilized the "content_only" parameter to display only the essential content. This approach enables a seamless, chromeless experience—removing unnecessary navigation elements and ensuring the static pages blend smoothly with the application's overall design.
 
 <p align="center">
-  <img src="./assets/contribute.png" height="350" />
-  <img src="./assets/producers.png" height="350"/>
+  <img src="./assets/contribute.png" width="650" />
+  <img src="./assets/producers.png" width="650"/>
 </p>
 
 <b>Relevant PRs:</b>
@@ -79,7 +79,7 @@ I integrated the static pages into the Explorer by embedding their public URLs w
 Added a user-friendly country selection feature within the application settings. This allows users to easily choose their preferred country, ensuring that product data and search results are tailored to their locale. The implementation focused on accessibility and seamless UI integration. In this work, I have added an API in JS SDK and later consumed it in explorer.
 
 <p align="center">
-  <img src="./assets/select-country.png" height="350" />
+  <img src="./assets/select-country.png" width="650" />
 </p>
 
 <b>Relevant PRs:</b>
@@ -185,9 +185,7 @@ Enabled users to add new products directly when a search returns no results, mak
 ### <b>Client Side Image Editing</b>
 Introduced a client-side image editing feature using Cropper.js, allowing users to easily crop and adjust product images before uploading. Users can also edit images that have already been uploaded, as well as select and deselect images as needed. This enhancement streamlines the contribution process and improves the quality of submitted images.
 
-<p align="center">
-  <img src="./assets/image-edit.png" height="450" />
-</p>
+![image-edit.png](./assets/image-edit.png)
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/619
