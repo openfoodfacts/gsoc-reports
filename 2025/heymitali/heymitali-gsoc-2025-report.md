@@ -49,6 +49,8 @@ During Pre-GSoC period, I developed web components for the Mobile Badges and Don
 
 <p align="center">
   <img src="./assets/mobile-badges.png" alt="Mobile Badges Demo" width="700" />
+</p>
+<p align="center">
   <img src="./assets/donnation-banner.png" alt="Donation Banner Demo" width="850"/>
 </p>
 
@@ -66,6 +68,8 @@ I integrated the static pages into the Explorer by embedding their public URLs w
 
 <p align="center">
   <img src="./assets/contribute.png" width="700" />
+</p>
+<p align="center">
   <img src="./assets/producers.png" width="700"/>
 </p>
 
@@ -91,9 +95,7 @@ Implemented a secure authentication system using Keycloak with PKCE, enabling ro
 
 This was the most challenging and significant feature of my GSoC work. I gained hands-on experience with Keycloak, PKCE, and implementing a secure, end-to-end login flow. My contributions included adding Keycloak clients to the auth project and fully integrating authentication in Explorer—handling token persistence, secure redirects, and seamless user session management.
 
-<p align="center">
-<video src="./assets/login.mov" width="700" controls autoplay muted></video>
-</p>
+https://github.com/user-attachments/assets/ae72832e-3820-47a0-bc2e-839996aac68f
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/550
@@ -114,9 +116,7 @@ Designed and developed a reusable product card component in the web-components r
 ### <b>Autocomplete on Search</b>
 Implemented an intuitive autocomplete feature to the search functionality. It provides real-time type-ahead suggestions as users enter their queries. This enhancement streamlines the search experience and helps users find products more efficiently.
 
-<p align="center">
-<video src="./assets/autocomplete.mov" width="700" controls autoplay muted></video>
-</p>
+https://github.com/user-attachments/assets/e3c2966b-235b-45fb-bb78-6f904a9984cd
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/556
@@ -125,9 +125,7 @@ Implemented an intuitive autocomplete feature to the search functionality. It pr
 ### <b>Personalized Search</b>
 Developed a user preferences feature that enables personalized search results tailored to individual user choices and dietary needs, enhancing the overall relevance and user experience of the Explorer.
 
-<p align="center">
-<video src="./assets/user-pref.mov" width="700" controls autoplay muted></video>
-</p>
+https://github.com/user-attachments/assets/55f3c541-23ed-49fb-b6a8-b205f91ecf60
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/600
@@ -138,13 +136,15 @@ Developed a user preferences feature that enables personalized search results ta
 ### <b>Sort Options on Search Results</b>
 Added sorting options to the search results page, so users can easily reorder products by name, popularity, or nutrition. On mobile, sort and filter buttons are always accessible in a simple sticky footer for a smooth experience.
 
-<p align="center">
+<div align="center">
   <div style="display: flex; justify-content: center">
     <img src="./assets/sort-option-mobile.png" width="350" style="margin: 1rem" />
     <img src="./assets/sort-option-mobile-selected.png" width="350" style="margin: 1rem" />
   </div>
-  <div align="center"><img src="./assets/sort-options.png" width="700" /></div>
-</p>
+</div>
+<div align="center">
+  <div align="center"><img src="./assets/sort-options.png" width="800" /></div>
+</div>
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/559
@@ -152,9 +152,7 @@ Added sorting options to the search results page, so users can easily reorder pr
 ### <b>Faceted Search</b>
 Added faceted search functionality, allowing users to filter search results by multiple categories and attributes for more precise and efficient product discovery.
 
-<p align="center">
-<video src="./assets/facets.mov" width="700" controls autoplay muted></video>
-</p>
+https://github.com/user-attachments/assets/2531b084-82fd-4fed-985d-12aaeabd31f3
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/563
@@ -172,10 +170,9 @@ Added interactive Vega charts to visualize search results, enabling users to eas
 ### <b>Product Addition Feature</b>
 Enabled users to add new products directly when a search returns no results, making it easier to contribute missing items to the database. Redesigned the product addition flow from a single page to a step-by-step guided form, and reworked the product editing UI from a single page to a section-based workflow. These changes created a more intuitive, efficient contribution experience and were among my most impactful contributions to the Explorer project.
 
-<p align="center">
-<video src="./assets/add-product.mov" width="700" controls autoplay muted></video>
-<video src="./assets/edit-product.mov" width="700" controls autoplay muted></video>
-</p>
+https://github.com/user-attachments/assets/8bf68250-d2b4-4bcd-844a-b5f7cf218e32
+
+https://github.com/user-attachments/assets/85ec9d4d-235b-47e9-aeba-a8812262dda0
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/579
