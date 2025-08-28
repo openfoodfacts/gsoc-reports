@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Logos.webp" alt="Logos" width="600"/>
+  <img src="./assets/Logos.webp" alt="Logos" width="650"/>
 </p>
 
 # Project: "[Open Food Facts Explorer - A New Generation Frontend](https://summerofcode.withgoogle.com/programs/2025/projects/3AaDmj04)"
@@ -48,7 +48,7 @@ During Google Summer of Code 2025, I focused on advancing the Open Food Facts Ex
 During Pre-GSoC period, I developed web components for the Mobile Badges and Donation Banner. During the GSoC coding phase, I enhanced these components with dark mode support and implemented various refinements. I have also integrated these components into the Explorer project.
 
 <p align="center">
-  <img src="./assets/mobile-badges.png" alt="Mobile Badges Demo" width="650" />
+  <img src="./assets/mobile-badges.png" alt="Mobile Badges Demo" width="700" />
   <img src="./assets/donnation-banner.png" alt="Donation Banner Demo" width="850"/>
 </p>
 
@@ -65,8 +65,8 @@ During Pre-GSoC period, I developed web components for the Mobile Badges and Don
 I integrated the static pages into the Explorer by embedding their public URLs within iframes. In this work, I utilized the "content_only" parameter to display only the essential content. This approach enables a seamless, chromeless experience—removing unnecessary navigation elements and ensuring the static pages blend smoothly with the application's overall design.
 
 <p align="center">
-  <img src="./assets/contribute.png" width="650" />
-  <img src="./assets/producers.png" width="650"/>
+  <img src="./assets/contribute.png" width="700" />
+  <img src="./assets/producers.png" width="700"/>
 </p>
 
 <b>Relevant PRs:</b>
@@ -79,7 +79,7 @@ I integrated the static pages into the Explorer by embedding their public URLs w
 Added a user-friendly country selection feature within the application settings. This allows users to easily choose their preferred country, ensuring that product data and search results are tailored to their locale. The implementation focused on accessibility and seamless UI integration. In this work, I have added an API in JS SDK and later consumed it in explorer.
 
 <p align="center">
-  <img src="./assets/select-country.png" width="650" />
+  <img src="./assets/select-country.png" width="700" />
 </p>
 
 <b>Relevant PRs:</b>
@@ -92,7 +92,7 @@ Implemented a secure authentication system using Keycloak with PKCE, enabling ro
 This was the most challenging and significant feature of my GSoC work. I gained hands-on experience with Keycloak, PKCE, and implementing a secure, end-to-end login flow. My contributions included adding Keycloak clients to the auth project and fully integrating authentication in Explorer—handling token persistence, secure redirects, and seamless user session management.
 
 <p align="center">
-<video src="./assets/login.mov" height="350" controls autoplay muted></video>
+<video src="./assets/login.mov" width="700" controls autoplay muted></video>
 </p>
 
 <b>Relevant PRs:</b>
@@ -103,7 +103,7 @@ This was the most challenging and significant feature of my GSoC work. I gained 
 Designed and developed a reusable product card component in the web-components repository, featuring a modern, responsive UI to display product details. Seamlessly integrated this component into the Explorer frontend, enabling consistent product presentation and improving code modularity, maintainability, and user experience across the application.
 
 <p align="center">
-  <img src="./assets/product-card.png" height="350" />
+  <img src="./assets/product-card.png" width="700" />
 </p>
 
 <b>Relevant PRs:</b>
@@ -115,7 +115,7 @@ Designed and developed a reusable product card component in the web-components r
 Implemented an intuitive autocomplete feature to the search functionality. It provides real-time type-ahead suggestions as users enter their queries. This enhancement streamlines the search experience and helps users find products more efficiently.
 
 <p align="center">
-<video src="./assets/autocomplete.mov" height="350" controls autoplay muted></video>
+<video src="./assets/autocomplete.mov" width="700" controls autoplay muted></video>
 </p>
 
 <b>Relevant PRs:</b>
@@ -126,7 +126,7 @@ Implemented an intuitive autocomplete feature to the search functionality. It pr
 Developed a user preferences feature that enables personalized search results tailored to individual user choices and dietary needs, enhancing the overall relevance and user experience of the Explorer.
 
 <p align="center">
-<video src="./assets/user-pref.mov" height="450" controls autoplay muted></video>
+<video src="./assets/user-pref.mov" width="700" controls autoplay muted></video>
 </p>
 
 <b>Relevant PRs:</b>
@@ -140,10 +140,10 @@ Added sorting options to the search results page, so users can easily reorder pr
 
 <p align="center">
   <div style="display: flex; justify-content: center">
-    <img src="./assets/sort-option-mobile.png" height="350" style="margin: 1rem" />
-    <img src="./assets/sort-option-mobile-selected.png" height="350" style="margin: 1rem" />
+    <img src="./assets/sort-option-mobile.png" width="350" style="margin: 1rem" />
+    <img src="./assets/sort-option-mobile-selected.png" width="350" style="margin: 1rem" />
   </div>
-  <div align="center"><img src="./assets/sort-options.png" height="350" /></div>
+  <div align="center"><img src="./assets/sort-options.png" width="700" /></div>
 </p>
 
 <b>Relevant PRs:</b>
@@ -153,7 +153,7 @@ Added sorting options to the search results page, so users can easily reorder pr
 Added faceted search functionality, allowing users to filter search results by multiple categories and attributes for more precise and efficient product discovery.
 
 <p align="center">
-<video src="./assets/facets.mov" height="450" controls autoplay muted></video>
+<video src="./assets/facets.mov" width="700" controls autoplay muted></video>
 </p>
 
 <b>Relevant PRs:</b>
@@ -163,7 +163,7 @@ Added faceted search functionality, allowing users to filter search results by m
 Added interactive Vega charts to visualize search results, enabling users to easily explore and understand product data trends and distributions directly within the Explorer interface.
 
 <p align="center">
-  <img src="./assets/charts.png" height="350" />
+  <img src="./assets/charts.png" width="700" />
 </p>
 
 <b>Relevant PRs:</b>
@@ -173,8 +173,8 @@ Added interactive Vega charts to visualize search results, enabling users to eas
 Enabled users to add new products directly when a search returns no results, making it easier to contribute missing items to the database. Redesigned the product addition flow from a single page to a step-by-step guided form, and reworked the product editing UI from a single page to a section-based workflow. These changes created a more intuitive, efficient contribution experience and were among my most impactful contributions to the Explorer project.
 
 <p align="center">
-<video src="./assets/add-product.mov" height="450" controls autoplay muted></video>
-<video src="./assets/edit-product.mov" height="450" controls autoplay muted></video>
+<video src="./assets/add-product.mov" width="700" controls autoplay muted></video>
+<video src="./assets/edit-product.mov" width="700" controls autoplay muted></video>
 </p>
 
 <b>Relevant PRs:</b>
@@ -185,7 +185,9 @@ Enabled users to add new products directly when a search returns no results, mak
 ### <b>Client Side Image Editing</b>
 Introduced a client-side image editing feature using Cropper.js, allowing users to easily crop and adjust product images before uploading. Users can also edit images that have already been uploaded, as well as select and deselect images as needed. This enhancement streamlines the contribution process and improves the quality of submitted images.
 
-![image-edit.png](./assets/image-edit.png)
+<p align="center">
+  <img src="./assets/image-edit.png" width="700" />
+</p>
 
 <b>Relevant PRs:</b>
 - https://github.com/openfoodfacts/openfoodfacts-explorer/pull/619
