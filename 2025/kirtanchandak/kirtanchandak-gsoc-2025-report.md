@@ -147,7 +147,7 @@ Integrated these WebComponents into the Open Food Facts server, making the new t
 #### Folksonomy Product Properties -
 
 <p align="center">
-  <img src="./assets/folksonomy-editor.png" width="700" />
+  <img src="./assets/folksonomy-product-properties.png" width="700" />
 </p>
 
 ### Folksonomy Properties -
