@@ -115,7 +115,7 @@ The wizard guides users through the process of defining new properties, validate
 
 Developed a comprehensive user role management system for the folksonomy engine. This allows us to perform operations like bulk deletions or property modifications are restricted to trusted contributors.
 
-The role management system includes different user levels with appropriate permissions - user, moderator and admin helping maintain data quality while allowing community participation.
+The role management system includes different user levels with appropriate permissions - `user`, `moderator` and `admin` helping maintain data quality while allowing community participation.
 
 Implemented API for checking user role `/user/me` on OpenFoodFacts -
 
@@ -152,7 +152,9 @@ Integrated these WebComponents into the Open Food Facts server, making the new t
 
 ### Folksonomy Properties -
 
-need to add image here
+<p align="center">
+  <img src="./assets/folksonomy-properties.png" width="700" />
+</p>
 
 **Relevant PRs:**
 
@@ -176,7 +178,23 @@ Documantation:
 
 ### **Bulk Property/Value Management UI**
 
-need to add things here
+Implemented UI for renaming, deleting and checking conflicts pefore deleting for values and properties.
+
+<p align="center">
+  <img src="./assets/folksonomy-ui-actions.png" width="700" />
+</p>
+
+<p align="center">
+  <img src="./assets/folksonomy-action-rename.png" width="700" />
+</p>
+
+<p align="center">
+  <img src="./assets/folksonomy-action-delete.png" width="700" />
+</p>
+
+**Relevant PRs:**
+
+- https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/264
 
 ## Key Takeaways
 
