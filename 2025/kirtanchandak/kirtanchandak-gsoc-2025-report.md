@@ -100,12 +100,7 @@ Created a simple yet powerful property generation wizard that automatically crea
 
 The wizard guides users through the process of defining new properties, validates the input, and automatically generates the necessary wiki documentation, making it easier for the community to understand and use new properties.
 
-<p align="center">
-  <video width="700" controls>
-    <source src="https://raw.githubusercontent.com/openfoodfacts/gsoc-reports/main/2025/kirtanchandak/assets/folksonomy-wizard.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/8de34f2d-5989-4130-a3ca-e37714b12115
 
 **Relevant PRs:**
 
