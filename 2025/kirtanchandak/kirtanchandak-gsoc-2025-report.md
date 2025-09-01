@@ -11,7 +11,7 @@
 | **Mentors**      | [Alex Garel](https://github.com/alexgarel), [Charles Nepote](https://github.com/CharlesNepote), [Pierre Slamich](https://github.com/teolemon) |
 | **GitHub**       | [kirtanchandak](https://github.com/kirtanchandak)                                                                                             |
 | **LinkedIn**     | [Kirtan Chandak](https://www.linkedin.com/in/kirtan-chandak/)                                                                                 |
-| **Email**        | <a href="mailto:kirtanchandak@gmail.com">kirtanmchandak5@gmail.com</a>                                                                        |
+| **Email**        | <a href="mailto:kirtanmchandak5@gmail.com">kirtanmchandak5@gmail.com</a>                                                                      |
 
 # About Me
 
