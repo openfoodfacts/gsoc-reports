@@ -102,7 +102,7 @@ The wizard guides users through the process of defining new properties, validate
 
 <p align="center">
   <video width="700" controls>
-    <source src="./assets/folksonomy-wizard.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/openfoodfacts/gsoc-reports/main/2025/kirtanchandak/assets/folksonomy-wizard.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
