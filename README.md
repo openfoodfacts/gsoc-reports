@@ -5,8 +5,9 @@ Reports from @openfoodfacts 's GSOC students
 ## Reports Index
 
 - 2025
-  - [heymitali - GSoC report](./2025/heymitali/heymitali-gsoc-2025-report.md)
-  - [kirtanchandak - GSoC report](./2025/kirtanchandak/kirtanchandak-gsoc-2025-report.md)
+  - [heymitali - GSoC report](./2025/heymitali/heymitali-gsoc-2025-report.md) - Work on Open Food Facts Explorer - A New Generation Frontend
+  - [kirtanchandak - GSoC report](./2025/kirtanchandak/kirtanchandak-gsoc-2025-report.md) - Work on Folksonomy Engine: a one size fit all for any product data
+  - [Estrella - GSoC report](./2025/Vic142/vic142-gsoc-2025-report.md) - Implementation of a new structured nutrition schema
 
 ## How to add your GSoC report
 
