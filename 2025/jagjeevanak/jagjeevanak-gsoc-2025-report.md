@@ -16,7 +16,7 @@
 # About Me
 
 
-Hi, I’m Kirtan, a Software Engineer from India. I love to build products and contribute to open-source.
+Hi, I’m Jagjeevan, a Software Engineer from India. I love to build products and contribute to open-source.
 
 # Organization Overview
 
@@ -38,3 +38,48 @@ We will implement pre-configured Google IDX, Gitpod and Codespaces environments,
 - A real-time DevX dashboard.
 
 This project will empower contributors to go from zero to green PRs faster, making OFF development more accessible, efficient, and scalable.
+
+
+## Pre GSOC
+
+### Update setup docs for MacOS Users
+PRs:
+1. https://github.com/openfoodfacts/openfoodfacts-server/pull/11534
+2. https://github.com/openfoodfacts/openfoodfacts-server/pull/11522
+  
+### Solved good first issue where helped to clean up previous major update
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11591
+
+### Added CORS Support for one of the route
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11603
+
+### Added Skip test when there is change in documentation
+
+PR's : 
+1. https://github.com/openfoodfacts/openfoodfacts-server/pull/11555
+2. https://github.com/openfoodfacts/openfoodfacts-server/pull/11617
+
+Helped to solve major Cyber-Security attack in one of Github Action Dependency
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11644
+
+### Helped to Shift from Twitter to X
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11605
+
+### Updated OpenAPI Spec file
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11826
+
+### Helped to Lint the OpenAPI Spec file using Spectral
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11847
+
+# During GSoC 
+
+### Helped to bring CI/CD time from 50min to 10 min
+
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/12064
+
+### 
