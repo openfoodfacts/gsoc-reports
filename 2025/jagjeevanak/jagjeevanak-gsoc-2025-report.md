@@ -103,3 +103,13 @@ PR's:
 ### updated Spec file generation in other Projects 
 
 PR's: 
+
+# Special Thanks to Mentors and Community
+
+- [Alex Garel](https://github.com/alexgarel)
+- [Stéphane Gigandet](https://github.com/stephanegigandet), 
+- [Hangy](https://github.com/hangy)
+- [Malte](http://github.com/github-throwaway)
+- [Pierre Slamich](https://github.com/teolemon)
+
+I am deeply thankful to my mentors - Alex Garel, Stéphane Gigandet, Hangy, Malte, Pierre Slamich for their support, guidance, and encouragement throughout my Google Summer of Code journey. I truly appreciate the time and effort they invested in mentoring me, and I feel incredibly fortunate to have had the opportunity to work with them. This project has been an exciting and transformative experience, and last but not least thanks to the Open Food Facts community for making it possible. I look forward to contributing to this amazing organization beyond GSOC.
