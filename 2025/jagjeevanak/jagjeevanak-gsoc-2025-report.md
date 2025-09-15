@@ -76,10 +76,30 @@ PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11826
 ### Helped to Lint the OpenAPI Spec file using Spectral
 PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/11847
 
-# During GSoC 
+## During GSoC 
 
 ### Helped to bring CI/CD time from 50min to 10 min
 
+Made an python script to dynamically group the tests when new test's are added to keep the same average time
+
 PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/12064
 
-### 
+### Helped to make Developer documentation and OpenAPI docs with Fuma-Docs
+
+Repo: https://github.com/openfoodfacts/documentation
+
+Updated docs to make compatible with new format
+PR: https://github.com/openfoodfacts/openfoodfacts-server/pull/12369
+
+### Made an Fuma-Docs Transpiler to convert the Markup files to MDX files to beautify the documentation
+
+Repo: https://github.com/JagjeevanAK/fumadocs-transpiler
+
+### updated old workflow's in other Repos
+
+PR's:
+
+
+### updated Spec file generation in other Projects 
+
+PR's: 
